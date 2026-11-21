@@ -1,17 +1,17 @@
 {
- "scanned_at": "2026-11-20T14:17:21+00:00",
+ "scanned_at": "2026-11-21T01:19:21+00:00",
  "sources": {
   "Tesla": {
    "status": "ok",
-   "count": 63
+   "count": 41
   },
   "Autotrader": {
    "status": "ok",
-   "count": 288
+   "count": 289
   },
   "eBay": {
    "status": "ok",
-   "count": 25
+   "count": 31
   },
   "Craigslist": {
    "status": "ok",
@@ -19,7 +19,7 @@
   },
   "Facebook": {
    "status": "ok",
-   "count": 13
+   "count": 9
   },
   "Cars.com": {
    "status": "failed",
@@ -27,7 +27,7 @@
   },
   "CarGurus": {
    "status": "ok",
-   "count": 13
+   "count": 12
   }
  },
  "rows": [
@@ -42,30 +42,6 @@
    "location": "Fremont",
    "battery_ok": null,
    "url": "https://www.tesla.com/m3/order/5YJ3E1EA6PF488016"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA9PF463126",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 28700,
-   "miles": 45582,
-   "distance_mi": null,
-   "location": "Norwalk",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA9PF463126"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA6PF680178",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 28700,
-   "miles": 46946,
-   "distance_mi": null,
-   "location": "Colma",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA6PF680178"
   },
   {
    "listing_id": "tesla-5YJ3E1EA7PF715472",
@@ -104,270 +80,6 @@
    "url": "https://www.tesla.com/m3/order/5YJ3E1EA8PF678819"
   },
   {
-   "listing_id": "tesla-5YJ3E1EA1PF681934",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 29300,
-   "miles": 43094,
-   "distance_mi": null,
-   "location": "Riverside",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA1PF681934"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA8PF672762",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 29400,
-   "miles": 52114,
-   "distance_mi": null,
-   "location": "Norwalk",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA8PF672762"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA2PF676113",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 29500,
-   "miles": 43497,
-   "distance_mi": null,
-   "location": "UPLAND",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA2PF676113"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA4PF696007",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 29500,
-   "miles": 75263,
-   "distance_mi": null,
-   "location": "Norwalk",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA4PF696007"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EAXPF570430",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 29500,
-   "miles": 44516,
-   "distance_mi": null,
-   "location": "Norwalk",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EAXPF570430"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA8PF638921",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 29600,
-   "miles": 34488,
-   "distance_mi": null,
-   "location": "Colma",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA8PF638921"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA6PF693884",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 29700,
-   "miles": 42576,
-   "distance_mi": null,
-   "location": "Colma",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA6PF693884"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA6PF554936",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 29700,
-   "miles": 41881,
-   "distance_mi": null,
-   "location": "Clifton",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA6PF554936"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA6PF712546",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 29700,
-   "miles": 39539,
-   "distance_mi": null,
-   "location": "Norwalk",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA6PF712546"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA7PF702365",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 29800,
-   "miles": 41224,
-   "distance_mi": null,
-   "location": "Thousand Oaks",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA7PF702365"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA2PF551869",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 29800,
-   "miles": 38349,
-   "distance_mi": null,
-   "location": "Norwalk",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA2PF551869"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA7PF678035",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 29800,
-   "miles": 44536,
-   "distance_mi": null,
-   "location": "North Hollywood",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA7PF678035"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA3PF677920",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 29800,
-   "miles": 28695,
-   "distance_mi": null,
-   "location": "McClellan Park",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA3PF677920"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA5PF560226",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 29900,
-   "miles": 33468,
-   "distance_mi": null,
-   "location": "Norwalk",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA5PF560226"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA3PF684110",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 30100,
-   "miles": 40525,
-   "distance_mi": null,
-   "location": "Norwalk",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA3PF684110"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA3PF512658",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 30100,
-   "miles": 27191,
-   "distance_mi": null,
-   "location": "Norwalk",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA3PF512658"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA7PF679248",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 30100,
-   "miles": 37490,
-   "distance_mi": null,
-   "location": "North Hollywood",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA7PF679248"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA4PF555423",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 30200,
-   "miles": 32613,
-   "distance_mi": null,
-   "location": "Riverside",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA4PF555423"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA9PF686038",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 30300,
-   "miles": 36623,
-   "distance_mi": null,
-   "location": "Norwalk",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA9PF686038"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EAXPF552980",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 30300,
-   "miles": 28319,
-   "distance_mi": null,
-   "location": "Colma",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EAXPF552980"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA3PF561911",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 30400,
-   "miles": 27150,
-   "distance_mi": null,
-   "location": "Norwalk",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA3PF561911"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA4PF679126",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 30400,
-   "miles": 29601,
-   "distance_mi": null,
-   "location": "UPLAND",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA4PF679126"
-  },
-  {
    "listing_id": "tesla-5YJ3E1EA6PF687633",
    "source": "Tesla",
    "year": 2023,
@@ -378,18 +90,6 @@
    "location": "North Hollywood",
    "battery_ok": null,
    "url": "https://www.tesla.com/m3/order/5YJ3E1EA6PF687633"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA5PF694976",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 30400,
-   "miles": 35937,
-   "distance_mi": null,
-   "location": "Norwalk",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA5PF694976"
   },
   {
    "listing_id": "tesla-5YJ3E1EA0PF706855",
@@ -404,40 +104,28 @@
    "url": "https://www.tesla.com/m3/order/5YJ3E1EA0PF706855"
   },
   {
-   "listing_id": "tesla-5YJ3E1EA8PF684961",
+   "listing_id": "tesla-5YJ3E1EA5PF694976",
    "source": "Tesla",
    "year": 2023,
    "trim": "RWD",
    "price": 30400,
-   "miles": 47928,
+   "miles": 35938,
    "distance_mi": null,
    "location": "Norwalk",
    "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA8PF684961"
+   "url": "https://www.tesla.com/m3/order/5YJ3E1EA5PF694976"
   },
   {
-   "listing_id": "tesla-5YJ3E1EA0PF558884",
+   "listing_id": "tesla-5YJ3E1EA6PF682321",
    "source": "Tesla",
    "year": 2023,
    "trim": "RWD",
-   "price": 30500,
-   "miles": 41704,
-   "distance_mi": null,
-   "location": "Norwalk",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA0PF558884"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA7PF660392",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 30500,
-   "miles": 29507,
+   "price": 30400,
+   "miles": 24412,
    "distance_mi": null,
    "location": "Gilroy",
    "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA7PF660392"
+   "url": "https://www.tesla.com/m3/order/5YJ3E1EA6PF682321"
   },
   {
    "listing_id": "tesla-5YJ3E1EAXPF682662",
@@ -450,6 +138,18 @@
    "location": "Thousand Oaks",
    "battery_ok": null,
    "url": "https://www.tesla.com/m3/order/5YJ3E1EAXPF682662"
+  },
+  {
+   "listing_id": "tesla-5YJ3E1EA7PF660392",
+   "source": "Tesla",
+   "year": 2023,
+   "trim": "RWD",
+   "price": 30500,
+   "miles": 29507,
+   "distance_mi": null,
+   "location": "Gilroy",
+   "battery_ok": null,
+   "url": "https://www.tesla.com/m3/order/5YJ3E1EA7PF660392"
   },
   {
    "listing_id": "tesla-5YJ3E1EA5PF681287",
@@ -488,16 +188,16 @@
    "url": "https://www.tesla.com/m3/order/5YJ3E1EA0PF697591"
   },
   {
-   "listing_id": "tesla-5YJ3E1EA0PF690074",
+   "listing_id": "tesla-5YJ3E1EA0PF558884",
    "source": "Tesla",
    "year": 2023,
    "trim": "RWD",
    "price": 30700,
-   "miles": 32516,
+   "miles": 41709,
    "distance_mi": null,
-   "location": "North Hollywood",
+   "location": "Norwalk",
    "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA0PF690074"
+   "url": "https://www.tesla.com/m3/order/5YJ3E1EA0PF558884"
   },
   {
    "listing_id": "tesla-5YJ3E1EA2PF665600",
@@ -536,16 +236,16 @@
    "url": "https://www.tesla.com/m3/order/5YJ3E1EA8PF692686"
   },
   {
-   "listing_id": "tesla-5YJ3E1EA8PF686869",
+   "listing_id": "tesla-5YJ3E1EA0PF690074",
    "source": "Tesla",
    "year": 2023,
    "trim": "RWD",
    "price": 30700,
-   "miles": 36421,
+   "miles": 32516,
    "distance_mi": null,
-   "location": "Norwalk",
+   "location": "North Hollywood",
    "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA8PF686869"
+   "url": "https://www.tesla.com/m3/order/5YJ3E1EA0PF690074"
   },
   {
    "listing_id": "tesla-5YJ3E1EA2PF668738",
@@ -572,16 +272,16 @@
    "url": "https://www.tesla.com/m3/order/5YJ3E1EA2PF564203"
   },
   {
-   "listing_id": "tesla-5YJ3E1EA4PF681698",
+   "listing_id": "tesla-5YJ3E1EA8PF686869",
    "source": "Tesla",
    "year": 2023,
    "trim": "RWD",
-   "price": 30800,
-   "miles": 33662,
+   "price": 30700,
+   "miles": 36421,
    "distance_mi": null,
-   "location": "North Hollywood",
+   "location": "Norwalk",
    "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA4PF681698"
+   "url": "https://www.tesla.com/m3/order/5YJ3E1EA8PF686869"
   },
   {
    "listing_id": "tesla-5YJ3E1EA3PF682194",
@@ -596,18 +296,6 @@
    "url": "https://www.tesla.com/m3/order/5YJ3E1EA3PF682194"
   },
   {
-   "listing_id": "tesla-5YJ3E1EA3PF677609",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 30800,
-   "miles": 29412,
-   "distance_mi": null,
-   "location": "Colma",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA3PF677609"
-  },
-  {
    "listing_id": "tesla-5YJ3E1EA6PF686837",
    "source": "Tesla",
    "year": 2023,
@@ -620,16 +308,16 @@
    "url": "https://www.tesla.com/m3/order/5YJ3E1EA6PF686837"
   },
   {
-   "listing_id": "tesla-5YJ3E1EAXPF683584",
+   "listing_id": "tesla-5YJ3E1EA4PF681698",
    "source": "Tesla",
    "year": 2023,
    "trim": "RWD",
    "price": 30800,
-   "miles": 49560,
+   "miles": 33662,
    "distance_mi": null,
-   "location": "Norwalk",
+   "location": "North Hollywood",
    "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EAXPF683584"
+   "url": "https://www.tesla.com/m3/order/5YJ3E1EA4PF681698"
   },
   {
    "listing_id": "tesla-5YJ3E1EA0PF501472",
@@ -644,18 +332,6 @@
    "url": "https://www.tesla.com/m3/order/5YJ3E1EA0PF501472"
   },
   {
-   "listing_id": "tesla-5YJ3E1EA1PF690441",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 30800,
-   "miles": 29813,
-   "distance_mi": null,
-   "location": "Colma",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA1PF690441"
-  },
-  {
    "listing_id": "tesla-5YJ3E1EAXPF674898",
    "source": "Tesla",
    "year": 2023,
@@ -666,6 +342,18 @@
    "location": "North Hollywood",
    "battery_ok": null,
    "url": "https://www.tesla.com/m3/order/5YJ3E1EAXPF674898"
+  },
+  {
+   "listing_id": "tesla-5YJ3E1EA1PF690441",
+   "source": "Tesla",
+   "year": 2023,
+   "trim": "RWD",
+   "price": 30800,
+   "miles": 29815,
+   "distance_mi": null,
+   "location": "Colma",
+   "battery_ok": null,
+   "url": "https://www.tesla.com/m3/order/5YJ3E1EA1PF690441"
   },
   {
    "listing_id": "tesla-5YJ3E1EA9PF682488",
@@ -690,18 +378,6 @@
    "location": "Colma",
    "battery_ok": null,
    "url": "https://www.tesla.com/m3/order/5YJ3E1EA8PF670672"
-  },
-  {
-   "listing_id": "tesla-5YJ3E1EA4PF676551",
-   "source": "Tesla",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 30900,
-   "miles": 28890,
-   "distance_mi": null,
-   "location": "Gilroy",
-   "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA4PF676551"
   },
   {
    "listing_id": "tesla-5YJ3E1EAXPF679910",
@@ -764,16 +440,16 @@
    "url": "https://www.tesla.com/m3/order/5YJ3E1EAXPF672746"
   },
   {
-   "listing_id": "tesla-5YJ3E1EA1PF690651",
+   "listing_id": "tesla-5YJ3E1EAXPF683584",
    "source": "Tesla",
    "year": 2023,
    "trim": "RWD",
    "price": 31000,
-   "miles": 32266,
+   "miles": 49560,
    "distance_mi": null,
-   "location": "McClellan Park",
+   "location": "Norwalk",
    "battery_ok": null,
-   "url": "https://www.tesla.com/m3/order/5YJ3E1EA1PF690651"
+   "url": "https://www.tesla.com/m3/order/5YJ3E1EAXPF683584"
   },
   {
    "listing_id": "tesla-5YJ3E1EA1PF678855",
@@ -786,6 +462,66 @@
    "location": "Irvine",
    "battery_ok": null,
    "url": "https://www.tesla.com/m3/order/5YJ3E1EA1PF678855"
+  },
+  {
+   "listing_id": "tesla-5YJ3E1EA1PF690651",
+   "source": "Tesla",
+   "year": 2023,
+   "trim": "RWD",
+   "price": 31000,
+   "miles": 32266,
+   "distance_mi": null,
+   "location": "McClellan Park",
+   "battery_ok": null,
+   "url": "https://www.tesla.com/m3/order/5YJ3E1EA1PF690651"
+  },
+  {
+   "listing_id": "tesla-5YJ3E1EB8NF175667",
+   "source": "Tesla",
+   "year": 2022,
+   "trim": "Long Range",
+   "price": 31000,
+   "miles": 34978,
+   "distance_mi": null,
+   "location": "McClellan Park",
+   "battery_ok": null,
+   "url": "https://www.tesla.com/m3/order/5YJ3E1EB8NF175667"
+  },
+  {
+   "listing_id": "tesla-5YJ3E1EA7PF499591",
+   "source": "Tesla",
+   "year": 2023,
+   "trim": "RWD",
+   "price": 31000,
+   "miles": 43775,
+   "distance_mi": null,
+   "location": "Norwalk",
+   "battery_ok": null,
+   "url": "https://www.tesla.com/m3/order/5YJ3E1EA7PF499591"
+  },
+  {
+   "listing_id": "tesla-5YJ3E1EA0PF657527",
+   "source": "Tesla",
+   "year": 2023,
+   "trim": "RWD",
+   "price": 31100,
+   "miles": 38065,
+   "distance_mi": null,
+   "location": "UPLAND",
+   "battery_ok": null,
+   "url": "https://www.tesla.com/m3/order/5YJ3E1EA0PF657527"
+  },
+  {
+   "listing_id": "tesla-5YJ3E1EA4PF676551",
+   "source": "Tesla",
+   "year": 2023,
+   "trim": "RWD",
+   "price": 31100,
+   "miles": 28890,
+   "distance_mi": null,
+   "location": "Gilroy",
+   "battery_ok": null,
+   "url": "https://www.tesla.com/m3/order/5YJ3E1EA4PF676551"
   },
   {
    "listing_id": "at-764612885",
@@ -960,7 +696,7 @@
    "source": "Autotrader",
    "year": 2023,
    "trim": "RWD",
-   "price": 26999,
+   "price": 25999,
    "miles": 43000,
    "distance_mi": 34,
    "location": "",
@@ -1392,7 +1128,7 @@
    "source": "Autotrader",
    "year": 2023,
    "trim": "RWD",
-   "price": 26384,
+   "price": 25984,
    "miles": 48000,
    "distance_mi": 21,
    "location": "",
@@ -1572,7 +1308,7 @@
    "source": "Autotrader",
    "year": 2023,
    "trim": "RWD",
-   "price": 25784,
+   "price": 25384,
    "miles": 67000,
    "distance_mi": 21,
    "location": "",
@@ -1584,7 +1320,7 @@
    "source": "Autotrader",
    "year": 2023,
    "trim": "RWD",
-   "price": 26284,
+   "price": 25884,
    "miles": 43000,
    "distance_mi": 33,
    "location": "",
@@ -1656,7 +1392,7 @@
    "source": "Autotrader",
    "year": 2022,
    "trim": "Long Range",
-   "price": 31496,
+   "price": 30996,
    "miles": 20000,
    "distance_mi": 49,
    "location": "",
@@ -1920,7 +1656,7 @@
    "source": "Autotrader",
    "year": 2023,
    "trim": "RWD",
-   "price": 24499,
+   "price": 24299,
    "miles": 89000,
    "distance_mi": 19,
    "location": "",
@@ -1968,7 +1704,7 @@
    "source": "Autotrader",
    "year": 2023,
    "trim": "RWD",
-   "price": 24984,
+   "price": 24584,
    "miles": 66000,
    "distance_mi": 21,
    "location": "",
@@ -1980,7 +1716,7 @@
    "source": "Autotrader",
    "year": 2022,
    "trim": "Long Range",
-   "price": 29484,
+   "price": 28984,
    "miles": 39000,
    "distance_mi": 21,
    "location": "",
@@ -2316,7 +2052,7 @@
    "source": "Autotrader",
    "year": 2023,
    "trim": "RWD",
-   "price": 27584,
+   "price": 26984,
    "miles": 29000,
    "distance_mi": 21,
    "location": "",
@@ -2952,7 +2688,7 @@
    "source": "Autotrader",
    "year": 2023,
    "trim": "RWD",
-   "price": 27948,
+   "price": 27649,
    "miles": 35000,
    "distance_mi": 17,
    "location": "",
@@ -3068,18 +2804,6 @@
    "url": "https://www.autotrader.com/cars-for-sale/vehicle/795397889"
   },
   {
-   "listing_id": "at-795408025",
-   "source": "Autotrader",
-   "year": 2023,
-   "trim": "Long Range",
-   "price": 28831,
-   "miles": 51000,
-   "distance_mi": 13,
-   "location": "",
-   "battery_ok": true,
-   "url": "https://www.autotrader.com/cars-for-sale/vehicle/795408025"
-  },
-  {
    "listing_id": "at-795411179",
    "source": "Autotrader",
    "year": 2023,
@@ -3096,7 +2820,7 @@
    "source": "Autotrader",
    "year": 2023,
    "trim": "RWD",
-   "price": 24984,
+   "price": 24584,
    "miles": 63000,
    "distance_mi": 21,
    "location": "",
@@ -3468,7 +3192,7 @@
    "source": "Autotrader",
    "year": 2023,
    "trim": "RWD",
-   "price": 28484,
+   "price": 27984,
    "miles": 15000,
    "distance_mi": 15,
    "location": "",
@@ -3624,7 +3348,7 @@
    "source": "Autotrader",
    "year": 2022,
    "trim": "Unconfirmed",
-   "price": 28022,
+   "price": 27672,
    "miles": null,
    "distance_mi": 26,
    "location": "",
@@ -4068,7 +3792,7 @@
    "source": "Autotrader",
    "year": 2023,
    "trim": "RWD",
-   "price": null,
+   "price": 25990,
    "miles": 54000,
    "distance_mi": 56,
    "location": "",
@@ -4116,7 +3840,7 @@
    "source": "Autotrader",
    "year": 2022,
    "trim": "Long Range",
-   "price": 27967,
+   "price": 28944,
    "miles": 51000,
    "distance_mi": 56,
    "location": "",
@@ -4180,7 +3904,7 @@
    "miles": 50000,
    "distance_mi": 28,
    "location": "",
-   "battery_ok": false,
+   "battery_ok": true,
    "url": "https://www.autotrader.com/cars-for-sale/vehicle/796683937"
   },
   {
@@ -4188,11 +3912,11 @@
    "source": "Autotrader",
    "year": 2024,
    "trim": "Long Range",
-   "price": 36084,
+   "price": 35999,
    "miles": 20000,
    "distance_mi": 19,
    "location": "",
-   "battery_ok": false,
+   "battery_ok": true,
    "url": "https://www.autotrader.com/cars-for-sale/vehicle/796703730"
   },
   {
@@ -4204,7 +3928,7 @@
    "miles": 37000,
    "distance_mi": 52,
    "location": "",
-   "battery_ok": false,
+   "battery_ok": true,
    "url": "https://www.autotrader.com/cars-for-sale/vehicle/796709633"
   },
   {
@@ -4216,7 +3940,7 @@
    "miles": 34000,
    "distance_mi": 52,
    "location": "",
-   "battery_ok": false,
+   "battery_ok": true,
    "url": "https://www.autotrader.com/cars-for-sale/vehicle/796709634"
   },
   {
@@ -4228,7 +3952,7 @@
    "miles": null,
    "distance_mi": 99,
    "location": "",
-   "battery_ok": false,
+   "battery_ok": true,
    "url": "https://www.autotrader.com/cars-for-sale/vehicle/796717444"
   },
   {
@@ -4240,8 +3964,32 @@
    "miles": 10000,
    "distance_mi": 16,
    "location": "",
-   "battery_ok": false,
+   "battery_ok": true,
    "url": "https://www.autotrader.com/cars-for-sale/vehicle/796726798"
+  },
+  {
+   "listing_id": "at-796749437",
+   "source": "Autotrader",
+   "year": 2023,
+   "trim": "RWD",
+   "price": 27499,
+   "miles": null,
+   "distance_mi": null,
+   "location": "",
+   "battery_ok": false,
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/796749437"
+  },
+  {
+   "listing_id": "at-796768303",
+   "source": "Autotrader",
+   "year": 2022,
+   "trim": "Long Range",
+   "price": 24723,
+   "miles": 155000,
+   "distance_mi": 19,
+   "location": "",
+   "battery_ok": false,
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/796768303"
   },
   {
    "listing_id": "ebay-920151011327",
@@ -4266,6 +4014,18 @@
    "location": "",
    "battery_ok": null,
    "url": "https://www.ebay.com/itm/920158284257"
+  },
+  {
+   "listing_id": "ebay-920157710151",
+   "source": "eBay",
+   "year": 2023,
+   "trim": "Long Range",
+   "price": 12450,
+   "miles": 192000,
+   "distance_mi": null,
+   "location": "",
+   "battery_ok": null,
+   "url": "https://www.ebay.com/itm/920157710151"
   },
   {
    "listing_id": "ebay-920137670305",
@@ -4304,18 +4064,6 @@
    "url": "https://www.ebay.com/itm/257842692463"
   },
   {
-   "listing_id": "ebay-168856269178",
-   "source": "eBay",
-   "year": 2022,
-   "trim": "Long Range",
-   "price": 13500,
-   "miles": null,
-   "distance_mi": null,
-   "location": "",
-   "battery_ok": null,
-   "url": "https://www.ebay.com/itm/168856269178"
-  },
-  {
    "listing_id": "ebay-168874125009",
    "source": "eBay",
    "year": 2022,
@@ -4328,6 +4076,30 @@
    "url": "https://www.ebay.com/itm/168874125009"
   },
   {
+   "listing_id": "ebay-168856269178",
+   "source": "eBay",
+   "year": 2022,
+   "trim": "Long Range",
+   "price": 13500,
+   "miles": null,
+   "distance_mi": null,
+   "location": "",
+   "battery_ok": null,
+   "url": "https://www.ebay.com/itm/168856269178"
+  },
+  {
+   "listing_id": "ebay-327464030353",
+   "source": "eBay",
+   "year": 2022,
+   "trim": "Long Range",
+   "price": 11000,
+   "miles": 59400,
+   "distance_mi": null,
+   "location": "(auction)",
+   "battery_ok": null,
+   "url": "https://www.ebay.com/itm/327464030353"
+  },
+  {
    "listing_id": "ebay-168835071947",
    "source": "eBay",
    "year": 2022,
@@ -4338,30 +4110,6 @@
    "location": "",
    "battery_ok": null,
    "url": "https://www.ebay.com/itm/168835071947"
-  },
-  {
-   "listing_id": "ebay-920157710151",
-   "source": "eBay",
-   "year": 2023,
-   "trim": "Long Range",
-   "price": 12450,
-   "miles": 192000,
-   "distance_mi": null,
-   "location": "",
-   "battery_ok": null,
-   "url": "https://www.ebay.com/itm/920157710151"
-  },
-  {
-   "listing_id": "ebay-336872335089",
-   "source": "eBay",
-   "year": 2022,
-   "trim": "Long Range",
-   "price": 19500,
-   "miles": 103800,
-   "distance_mi": null,
-   "location": "",
-   "battery_ok": null,
-   "url": "https://www.ebay.com/itm/336872335089"
   },
   {
    "listing_id": "ebay-128187241614",
@@ -4412,18 +4160,6 @@
    "url": "https://www.ebay.com/itm/820369241815"
   },
   {
-   "listing_id": "ebay-327458312999",
-   "source": "eBay",
-   "year": 2023,
-   "trim": "Long Range",
-   "price": 31495,
-   "miles": null,
-   "distance_mi": null,
-   "location": "",
-   "battery_ok": null,
-   "url": "https://www.ebay.com/itm/327458312999"
-  },
-  {
    "listing_id": "ebay-327458963028",
    "source": "eBay",
    "year": 2023,
@@ -4446,6 +4182,30 @@
    "location": "",
    "battery_ok": null,
    "url": "https://www.ebay.com/itm/327460049886"
+  },
+  {
+   "listing_id": "ebay-327467298500",
+   "source": "eBay",
+   "year": 2024,
+   "trim": "RWD",
+   "price": 35995,
+   "miles": null,
+   "distance_mi": null,
+   "location": "",
+   "battery_ok": null,
+   "url": "https://www.ebay.com/itm/327467298500"
+  },
+  {
+   "listing_id": "ebay-327467305200",
+   "source": "eBay",
+   "year": 2023,
+   "trim": "Long Range",
+   "price": 31495,
+   "miles": null,
+   "distance_mi": null,
+   "location": "",
+   "battery_ok": null,
+   "url": "https://www.ebay.com/itm/327467305200"
   },
   {
    "listing_id": "ebay-327463654092",
@@ -4520,16 +4280,28 @@
    "url": "https://www.ebay.com/itm/407370095451"
   },
   {
-   "listing_id": "ebay-257851192611",
+   "listing_id": "ebay-257862906723",
    "source": "eBay",
    "year": 2023,
    "trim": "RWD",
-   "price": 30343,
+   "price": 31176,
    "miles": null,
    "distance_mi": null,
    "location": "",
    "battery_ok": null,
-   "url": "https://www.ebay.com/itm/257851192611"
+   "url": "https://www.ebay.com/itm/257862906723"
+  },
+  {
+   "listing_id": "ebay-327466944549",
+   "source": "eBay",
+   "year": 2022,
+   "trim": "Long Range",
+   "price": 27993,
+   "miles": null,
+   "distance_mi": null,
+   "location": "",
+   "battery_ok": null,
+   "url": "https://www.ebay.com/itm/327466944549"
   },
   {
    "listing_id": "ebay-860148499832",
@@ -4542,6 +4314,54 @@
    "location": "",
    "battery_ok": null,
    "url": "https://www.ebay.com/itm/860148499832"
+  },
+  {
+   "listing_id": "ebay-960203840802",
+   "source": "eBay",
+   "year": 2022,
+   "trim": "Unconfirmed",
+   "price": null,
+   "miles": null,
+   "distance_mi": null,
+   "location": "",
+   "battery_ok": null,
+   "url": "https://www.ebay.com/itm/960203840802"
+  },
+  {
+   "listing_id": "ebay-336908026698",
+   "source": "eBay",
+   "year": 2024,
+   "trim": "Unconfirmed",
+   "price": null,
+   "miles": null,
+   "distance_mi": null,
+   "location": "",
+   "battery_ok": null,
+   "url": "https://www.ebay.com/itm/336908026698"
+  },
+  {
+   "listing_id": "ebay-147679614262",
+   "source": "eBay",
+   "year": 2023,
+   "trim": "Unconfirmed",
+   "price": null,
+   "miles": null,
+   "distance_mi": null,
+   "location": "",
+   "battery_ok": null,
+   "url": "https://www.ebay.com/itm/147679614262"
+  },
+  {
+   "listing_id": "ebay-336908080552",
+   "source": "eBay",
+   "year": 2023,
+   "trim": "Unconfirmed",
+   "price": null,
+   "miles": null,
+   "distance_mi": null,
+   "location": "",
+   "battery_ok": null,
+   "url": "https://www.ebay.com/itm/336908080552"
   },
   {
    "listing_id": "cl-KuQtoGTk8RGc07entvANNA",
@@ -4832,28 +4652,16 @@
    "url": "https://www.craigslist.org/view/d/norco-2023-tesla-model-base/-L-rLB_Q8RGXEIcSUCDyCQ"
   },
   {
-   "listing_id": "fb-1607647523881181",
+   "listing_id": "fb-1476876424374435",
    "source": "Facebook",
    "year": 2023,
-   "trim": "RWD",
-   "price": 26880,
-   "miles": 49618,
-   "distance_mi": null,
-   "location": "San Gabriel, CA",
-   "battery_ok": null,
-   "url": "https://www.facebook.com/marketplace/item/1607647523881181/"
-  },
-  {
-   "listing_id": "fb-1643624169613488",
-   "source": "Facebook",
-   "year": 2022,
    "trim": "Unconfirmed",
-   "price": 17490,
-   "miles": 75623,
+   "price": 16000,
+   "miles": 69673,
    "distance_mi": null,
-   "location": "Los Angeles, CA",
+   "location": "Chatsworth, CA",
    "battery_ok": null,
-   "url": "https://www.facebook.com/marketplace/item/1643624169613488/"
+   "url": "https://www.facebook.com/marketplace/item/1476876424374435/"
   },
   {
    "listing_id": "fb-4417073305173109",
@@ -4868,76 +4676,16 @@
    "url": "https://www.facebook.com/marketplace/item/4417073305173109/"
   },
   {
-   "listing_id": "fb-1095464083192886",
+   "listing_id": "fb-1643624169613488",
    "source": "Facebook",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 18500,
-   "miles": 21746,
-   "distance_mi": null,
-   "location": "Carson, CA",
-   "battery_ok": null,
-   "url": "https://www.facebook.com/marketplace/item/1095464083192886/"
-  },
-  {
-   "listing_id": "fb-1398846532411345",
-   "source": "Facebook",
-   "year": 2023,
-   "trim": "Long Range",
-   "price": 16000,
-   "miles": 53063,
+   "year": 2022,
+   "trim": "Unconfirmed",
+   "price": 17490,
+   "miles": 75623,
    "distance_mi": null,
    "location": "Los Angeles, CA",
    "battery_ok": null,
-   "url": "https://www.facebook.com/marketplace/item/1398846532411345/"
-  },
-  {
-   "listing_id": "fb-2046536356236984",
-   "source": "Facebook",
-   "year": 2022,
-   "trim": "Long Range",
-   "price": null,
-   "miles": 80000,
-   "distance_mi": null,
-   "location": "Los Angeles, CA",
-   "battery_ok": null,
-   "url": "https://www.facebook.com/marketplace/item/2046536356236984/"
-  },
-  {
-   "listing_id": "fb-1147328484650945",
-   "source": "Facebook",
-   "year": 2022,
-   "trim": "RWD",
-   "price": 23800,
-   "miles": 74000,
-   "distance_mi": null,
-   "location": "El Monte, CA",
-   "battery_ok": null,
-   "url": "https://www.facebook.com/marketplace/item/1147328484650945/"
-  },
-  {
-   "listing_id": "fb-1272791571530398",
-   "source": "Facebook",
-   "year": 2022,
-   "trim": "RWD",
-   "price": 17000,
-   "miles": 58000,
-   "distance_mi": null,
-   "location": "Garden Grove, CA",
-   "battery_ok": null,
-   "url": "https://www.facebook.com/marketplace/item/1272791571530398/"
-  },
-  {
-   "listing_id": "fb-1110760865060789",
-   "source": "Facebook",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 26500,
-   "miles": 53540,
-   "distance_mi": null,
-   "location": "Porter Ranch, CA",
-   "battery_ok": null,
-   "url": "https://www.facebook.com/marketplace/item/1110760865060789/"
+   "url": "https://www.facebook.com/marketplace/item/1643624169613488/"
   },
   {
    "listing_id": "fb-2066758623973114",
@@ -4952,16 +4700,16 @@
    "url": "https://www.facebook.com/marketplace/item/2066758623973114/"
   },
   {
-   "listing_id": "fb-1759363052110009",
+   "listing_id": "fb-1398846532411345",
    "source": "Facebook",
-   "year": 2022,
+   "year": 2023,
    "trim": "Long Range",
-   "price": 18000,
-   "miles": 138000,
+   "price": 16000,
+   "miles": 53063,
    "distance_mi": null,
-   "location": "Whittier, CA",
+   "location": "Los Angeles, CA",
    "battery_ok": null,
-   "url": "https://www.facebook.com/marketplace/item/1759363052110009/"
+   "url": "https://www.facebook.com/marketplace/item/1398846532411345/"
   },
   {
    "listing_id": "fb-1735932264613491",
@@ -4976,16 +4724,64 @@
    "url": "https://www.facebook.com/marketplace/item/1735932264613491/"
   },
   {
-   "listing_id": "fb-1476876424374435",
+   "listing_id": "fb-2046536356236984",
+   "source": "Facebook",
+   "year": 2022,
+   "trim": "Long Range",
+   "price": null,
+   "miles": 80000,
+   "distance_mi": null,
+   "location": "Los Angeles, CA",
+   "battery_ok": null,
+   "url": "https://www.facebook.com/marketplace/item/2046536356236984/"
+  },
+  {
+   "listing_id": "fb-640145038966795",
+   "source": "Facebook",
+   "year": 2022,
+   "trim": "Long Range",
+   "price": 26000,
+   "miles": 67000,
+   "distance_mi": null,
+   "location": "West Hollywood, CA",
+   "battery_ok": null,
+   "url": "https://www.facebook.com/marketplace/item/640145038966795/"
+  },
+  {
+   "listing_id": "fb-1095464083192886",
    "source": "Facebook",
    "year": 2023,
-   "trim": "Unconfirmed",
-   "price": 16000,
-   "miles": 69673,
+   "trim": "RWD",
+   "price": 18500,
+   "miles": 21746,
    "distance_mi": null,
-   "location": "Chatsworth, CA",
+   "location": "Carson, CA",
    "battery_ok": null,
-   "url": "https://www.facebook.com/marketplace/item/1476876424374435/"
+   "url": "https://www.facebook.com/marketplace/item/1095464083192886/"
+  },
+  {
+   "listing_id": "cg-458706082",
+   "source": "CarGurus",
+   "year": 2023,
+   "trim": "Long Range",
+   "price": 24993,
+   "miles": 89533,
+   "distance_mi": 32,
+   "location": "Arleta, CA",
+   "battery_ok": null,
+   "url": "https://www.cargurus.com/details/458706082"
+  },
+  {
+   "listing_id": "cg-460492678",
+   "source": "CarGurus",
+   "year": 2022,
+   "trim": "Long Range",
+   "price": 26877,
+   "miles": 64531,
+   "distance_mi": 28,
+   "location": "Santa Monica, CA",
+   "battery_ok": null,
+   "url": "https://www.cargurus.com/details/460492678"
   },
   {
    "listing_id": "cg-461878145",
@@ -5012,28 +4808,40 @@
    "url": "https://www.cargurus.com/details/462130209"
   },
   {
-   "listing_id": "cg-462628302",
+   "listing_id": "cg-462176262",
    "source": "CarGurus",
-   "year": 2022,
-   "trim": "RWD",
-   "price": 23955,
-   "miles": 65227,
-   "distance_mi": 56,
-   "location": "Victorville, CA",
+   "year": 2024,
+   "trim": "Long Range",
+   "price": 42622,
+   "miles": 14188,
+   "distance_mi": 93,
+   "location": "Yucca Valley, CA",
    "battery_ok": null,
-   "url": "https://www.cargurus.com/details/462628302"
+   "url": "https://www.cargurus.com/details/462176262"
   },
   {
-   "listing_id": "cg-462892498",
+   "listing_id": "cg-462870573",
    "source": "CarGurus",
    "year": 2023,
    "trim": "RWD",
-   "price": 27990,
-   "miles": 40105,
-   "distance_mi": 27,
-   "location": "Laguna Hills, CA",
+   "price": 28648,
+   "miles": 35575,
+   "distance_mi": 18,
+   "location": "Costa Mesa, CA",
    "battery_ok": null,
-   "url": "https://www.cargurus.com/details/462892498"
+   "url": "https://www.cargurus.com/details/462870573"
+  },
+  {
+   "listing_id": "cg-463056800",
+   "source": "CarGurus",
+   "year": 2024,
+   "trim": "Long Range",
+   "price": 38169,
+   "miles": 29868,
+   "distance_mi": 28,
+   "location": "Ontario, CA",
+   "battery_ok": null,
+   "url": "https://www.cargurus.com/details/463056800"
   },
   {
    "listing_id": "cg-463124574",
@@ -5048,18 +4856,6 @@
    "url": "https://www.cargurus.com/details/463124574"
   },
   {
-   "listing_id": "cg-463242516",
-   "source": "CarGurus",
-   "year": 2023,
-   "trim": "RWD",
-   "price": 30467,
-   "miles": 23245,
-   "distance_mi": 12,
-   "location": "Garden Grove, CA",
-   "battery_ok": null,
-   "url": "https://www.cargurus.com/details/463242516"
-  },
-  {
    "listing_id": "cg-463451447",
    "source": "CarGurus",
    "year": 2023,
@@ -5072,52 +4868,28 @@
    "url": "https://www.cargurus.com/details/463451447"
   },
   {
-   "listing_id": "cg-464302491",
-   "source": "CarGurus",
-   "year": 2022,
-   "trim": "RWD",
-   "price": 26350,
-   "miles": 46043,
-   "distance_mi": 27,
-   "location": "Laguna Hills, CA",
-   "battery_ok": null,
-   "url": "https://www.cargurus.com/details/464302491"
-  },
-  {
-   "listing_id": "cg-464539471",
-   "source": "CarGurus",
-   "year": 2022,
-   "trim": "Long Range",
-   "price": 32998,
-   "miles": 37596,
-   "distance_mi": null,
-   "location": "Buena Park, CA",
-   "battery_ok": null,
-   "url": "https://www.cargurus.com/details/464539471"
-  },
-  {
-   "listing_id": "cg-464539606",
+   "listing_id": "cg-463610690",
    "source": "CarGurus",
    "year": 2023,
    "trim": "RWD",
-   "price": 25984,
-   "miles": 22932,
-   "distance_mi": 20,
+   "price": 26699,
+   "miles": 46407,
+   "distance_mi": 21,
    "location": "Montclair, CA",
    "battery_ok": null,
-   "url": "https://www.cargurus.com/details/464539606"
+   "url": "https://www.cargurus.com/details/463610690"
   },
   {
-   "listing_id": "cg-464555667",
+   "listing_id": "cg-463944039",
    "source": "CarGurus",
    "year": 2023,
    "trim": "RWD",
-   "price": 30147,
-   "miles": 41775,
-   "distance_mi": null,
-   "location": "Buena Park, CA",
+   "price": 27984,
+   "miles": 15787,
+   "distance_mi": 14,
+   "location": "Santa Ana, CA",
    "battery_ok": null,
-   "url": "https://www.cargurus.com/details/464555667"
+   "url": "https://www.cargurus.com/details/463944039"
   },
   {
    "listing_id": "cg-464645112",
@@ -5130,19 +4902,7 @@
    "location": "Lomita, CA",
    "battery_ok": null,
    "url": "https://www.cargurus.com/details/464645112"
-  },
-  {
-   "listing_id": "cg-464681856",
-   "source": "CarGurus",
-   "year": 2022,
-   "trim": "Long Range",
-   "price": 26998,
-   "miles": 80832,
-   "distance_mi": null,
-   "location": "Buena Park, CA",
-   "battery_ok": null,
-   "url": "https://www.cargurus.com/details/464681856"
   }
  ],
- "finished_at": "2026-11-20T14:21:20+00:00"
+ "finished_at": "2026-11-21T01:23:43+00:00"
 }
